@@ -27,7 +27,7 @@ numeros[numeros.indexOf(5)] = 10;
 
 console.table(numeros);
 
-// Apagar um valor
+// Apagar o valor
 numeros.splice(numeros.indexOf(10), 1);
 
 console.table(numeros);
