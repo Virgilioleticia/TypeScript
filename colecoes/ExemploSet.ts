@@ -13,3 +13,4 @@ frutas.delete("Caqui");
 
 console.table(frutas);
 
+//ts

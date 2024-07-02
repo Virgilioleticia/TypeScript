@@ -31,3 +31,6 @@ console.table(numeros);
 numeros.splice(numeros.indexOf(10), 1);
 
 console.table(numeros);
+
+
+//ts
